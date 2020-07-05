@@ -40,11 +40,6 @@
          "context_set": ""
         }
         ,
-        {"tag": "girlfriend",
-         "patterns": ["what is your girlfriend name","your girlfriend name", "do you have a girlfreind?"],
-         "responses": ["You can call her Nutchi.", "She's Nutchi!"],
-         "context_set": ""
-        },
          {"tag": "java",
          "patterns": ["what is java ?","java ?", "i want java", "can you explain what is java", "tell me about java"],
          "responses": ["An advanced OOP programing language :-)"],
